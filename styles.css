@@ -15,5 +15,15 @@ p{
 	text-align: center;
 }
 .text_container{
-	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
+button{
+	background-color: red;
+	color: white;
+	padding: 5px 30px
+	
+}
+
