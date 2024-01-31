@@ -3,9 +3,9 @@
 	height: 100vh;
 	display: flex;
 	justify-content: center;
-	align-content: flex-start
+	align-items: center;
 }
-.img_container img{
+img{
 	width: 400px;
-	height: 400px;
+	height: 200px
 }
