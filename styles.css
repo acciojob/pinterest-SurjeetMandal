@@ -19,11 +19,12 @@ p{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	gap: 0px;
 }
 button{
 	background-color: red;
 	color: white;
 	padding: 0px 15px;
-	border-radius: 10px
+	border-radius: 2px
 }
 
